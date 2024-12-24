@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.js": "/Zero2Aura/static/js/main.38acda6e.js",
+    "reactPlayerYouTube.js": "/Zero2Aura/static/js/reactPlayerYouTube.61f1876a.chunk.js",
+    "reactPlayerSoundCloud.js": "/Zero2Aura/static/js/reactPlayerSoundCloud.21473f25.chunk.js",
+    "reactPlayerVimeo.js": "/Zero2Aura/static/js/reactPlayerVimeo.c3fec0c1.chunk.js",
+    "reactPlayerMux.js": "/Zero2Aura/static/js/reactPlayerMux.075b6102.chunk.js",
+    "reactPlayerFacebook.js": "/Zero2Aura/static/js/reactPlayerFacebook.13e5ed65.chunk.js",
+    "reactPlayerStreamable.js": "/Zero2Aura/static/js/reactPlayerStreamable.6d5dc7ef.chunk.js",
+    "reactPlayerWistia.js": "/Zero2Aura/static/js/reactPlayerWistia.92550a13.chunk.js",
+    "reactPlayerTwitch.js": "/Zero2Aura/static/js/reactPlayerTwitch.ed71b573.chunk.js",
+    "reactPlayerDailyMotion.js": "/Zero2Aura/static/js/reactPlayerDailyMotion.70fda6c3.chunk.js",
+    "reactPlayerMixcloud.js": "/Zero2Aura/static/js/reactPlayerMixcloud.fe253df8.chunk.js",
+    "reactPlayerVidyard.js": "/Zero2Aura/static/js/reactPlayerVidyard.30ca7995.chunk.js",
+    "reactPlayerKaltura.js": "/Zero2Aura/static/js/reactPlayerKaltura.20f02c49.chunk.js",
+    "reactPlayerFilePlayer.js": "/Zero2Aura/static/js/reactPlayerFilePlayer.e35c44c8.chunk.js",
+    "reactPlayerPreview.js": "/Zero2Aura/static/js/reactPlayerPreview.7cd8e4c0.chunk.js",
+    "index.html": "/Zero2Aura/index.html",
+    "main.38acda6e.js.map": "/Zero2Aura/static/js/main.38acda6e.js.map",
+    "reactPlayerYouTube.61f1876a.chunk.js.map": "/Zero2Aura/static/js/reactPlayerYouTube.61f1876a.chunk.js.map",
+    "reactPlayerSoundCloud.21473f25.chunk.js.map": "/Zero2Aura/static/js/reactPlayerSoundCloud.21473f25.chunk.js.map",
+    "reactPlayerVimeo.c3fec0c1.chunk.js.map": "/Zero2Aura/static/js/reactPlayerVimeo.c3fec0c1.chunk.js.map",
+    "reactPlayerMux.075b6102.chunk.js.map": "/Zero2Aura/static/js/reactPlayerMux.075b6102.chunk.js.map",
+    "reactPlayerFacebook.13e5ed65.chunk.js.map": "/Zero2Aura/static/js/reactPlayerFacebook.13e5ed65.chunk.js.map",
+    "reactPlayerStreamable.6d5dc7ef.chunk.js.map": "/Zero2Aura/static/js/reactPlayerStreamable.6d5dc7ef.chunk.js.map",
+    "reactPlayerWistia.92550a13.chunk.js.map": "/Zero2Aura/static/js/reactPlayerWistia.92550a13.chunk.js.map",
+    "reactPlayerTwitch.ed71b573.chunk.js.map": "/Zero2Aura/static/js/reactPlayerTwitch.ed71b573.chunk.js.map",
+    "reactPlayerDailyMotion.70fda6c3.chunk.js.map": "/Zero2Aura/static/js/reactPlayerDailyMotion.70fda6c3.chunk.js.map",
+    "reactPlayerMixcloud.fe253df8.chunk.js.map": "/Zero2Aura/static/js/reactPlayerMixcloud.fe253df8.chunk.js.map",
+    "reactPlayerVidyard.30ca7995.chunk.js.map": "/Zero2Aura/static/js/reactPlayerVidyard.30ca7995.chunk.js.map",
+    "reactPlayerKaltura.20f02c49.chunk.js.map": "/Zero2Aura/static/js/reactPlayerKaltura.20f02c49.chunk.js.map",
+    "reactPlayerFilePlayer.e35c44c8.chunk.js.map": "/Zero2Aura/static/js/reactPlayerFilePlayer.e35c44c8.chunk.js.map",
+    "reactPlayerPreview.7cd8e4c0.chunk.js.map": "/Zero2Aura/static/js/reactPlayerPreview.7cd8e4c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.38acda6e.js"
+  ]
+}
