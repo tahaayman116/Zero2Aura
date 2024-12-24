@@ -6,6 +6,7 @@ import models
 import schemas
 from database import SessionLocal, engine
 from fastapi.security import OAuth2PasswordBearer
+import os
 
 models.Base.metadata.create_all(bind=engine)
 
@@ -17,12 +18,21 @@ app.add_middleware(
     allow_origins=[
         "https://zero2aura.vercel.app",  # Vercel domain
         "http://localhost:3000",         # Local development
-        "*",
     ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Configure database
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./test.db")
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+
+# Configure JWT
+JWT_SECRET = os.getenv("JWT_SECRET", "your-secret-key-here")
+JWT_ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
 # Dependency
 def get_db():
