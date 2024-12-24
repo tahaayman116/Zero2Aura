@@ -14,7 +14,11 @@ app = FastAPI(title="مدرسة البرمجة - Code Academy Arabic")
 # CORS middleware configuration
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=[
+        "https://zero2aura.vercel.app",  # Vercel domain
+        "http://localhost:3000",         # Local development
+        "*",
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
